@@ -1,0 +1,1112 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+.body{
+	font-family: Oswald;
+	height: 3980px;
+}
+
+
+/*------------------------------------------------------*/
+
+
+.head{
+	position: fixed;
+	height: 80px;
+	width: 100%;
+	background-color: #E8F3EA;
+	z-index: 4;
+}
+.logotip{
+	width: 100px;
+	height: 50px;
+	margin-top: 15px;
+	margin-left: 30px;
+}
+.MoiZakazu{
+	float: right;
+	width: 80px;
+	height: 50px;
+	margin-top: 15px;
+	margin-right: 43px;
+}
+.HeadOdhranichitel{
+	display: none;
+	width: 100%;
+	height: 2px;
+	margin-bottom: 4px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+/*------------------------------------------------------*/
+
+
+
+.podheader{
+	position: absolute;
+	background-color: #6CC1B9;
+	display: inline-block;
+	width: 100%;
+	height: 700px;
+}
+.KartinkaCenter{
+	position: absolute;
+	display: inline-block;
+	height: 370px;
+	width: 260px;
+	margin-top: 165px;
+	margin-left: 100px;
+	z-index: 2;
+}
+.BolshoyKvadrat1{
+	position: absolute;
+	display: inline-block;
+	background-color: rgba(0, 0, 0, 0);
+	border: 10px solid #CEE5D7;
+	width: 1000px;
+	height: 1000px;
+	transform: rotate(10deg);
+	margin-top: -560px;
+	margin-left: -510px;
+}
+.BolshoyKvadrat2{
+	position: absolute;
+	display: inline-block;
+	background-color: rgba(0, 0, 0, 0);
+	border: 10px solid #CEE5D7;
+	width: 1000px;
+	height: 1000px;
+	transform: rotate(10deg);
+	margin-top: -450px;
+	margin-left: -460px;
+}
+.GlavSlovaPodheader1{
+	font-family: Oswald;
+	font-weight: 700;
+	font-size: 100px;
+	color: #FFF;
+	float: right;
+	margin-top: 200px;
+	margin-right: 100px;
+	text-shadow: 10px 7px 7px rgba(76, 136, 128, 1);
+}
+.GlavSlovaPodheader2{
+	position: absolute;
+	font-family: Oswald;
+	font-weight: 700;
+	font-size: 100px;
+	color: #2A4744;
+	margin-top: 300px;
+	margin-left: 600px;
+	text-shadow: 10px 7px 7px rgba(76, 136, 128, 1);
+}
+
+
+/*------------------------------------------------------*/
+
+
+
+.CONTENT{
+	position: absolute;
+	background-color: #FFF;
+	width: 100%;
+	height: 2400px;
+	margin-top: 700px;
+	overflow: hidden;	
+}
+.Headcontent{
+	position: absolute;
+	display: inline-block;
+	width: 100%;
+	height: 90px;
+	background-color: #FFF;
+	z-index: 2;
+	padding-top: 20px; 
+}
+.TextMerch {
+	color: #000;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 160px;
+    font-weight: 700;   
+}
+.TextPeregorodka1 {
+	color: #000;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-weight: 700;
+}
+.TextNastolki {
+	color: #000;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-weight: 700;
+}
+.TextPeregorodka2 {
+	color: #000;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-weight: 700;
+}
+.TetxUslugi {
+	color: #000;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-weight: 700;
+}
+.TextPeregorodka3 {
+	color: #000;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-weight: 700;
+}
+.TextPreimushistno {
+	color: #000;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-weight: 700;
+}
+
+
+/*------------------------------------------------------*/
+
+
+
+.BolshoyKvadrat3{
+	position: absolute;
+	display: inline-block;
+	background-color: rgba(0, 0, 0, 0);
+	border: 10px solid #6CC1B9;
+	width: 500px;
+	height: 500px;
+	transform: rotate(30deg);
+	margin-top: -100px;
+	margin-left: 630px;
+	float: right;
+	z-index: 1;
+}
+.BolshoyKvadrat4{
+	position: absolute;
+	display: inline-block;
+	background-color: rgba(0, 0, 0, 0);
+	border: 10px solid #6CC1B9;
+	width: 500px;
+	height: 500px;
+	transform: rotate(30deg);
+	margin-top: -120px;
+	margin-left: 700px;
+	z-index: 1;
+}
+
+
+
+.LucheeContent{
+	position: absolute;
+	display: inline-block;
+	width: 230px;
+	height: 70px;
+	border: 1px solid #000;
+	border-radius: 10px;
+	background-color: #EAF4EC;
+	margin-top: 130px;
+	margin-left: 70px;
+	padding-left: 40px;
+}
+.TextLuchshie{
+	color: #2A4744;
+	font-size: 50px;
+	font-weight: 700;
+	line-height: 70px;
+}
+
+
+
+.Sena1 {
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	background-color: #CFE7DD;
+	margin-top: 250px;
+	margin-left: 80px;
+	z-index: 3;
+}
+.Tovar1 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	border: 1px solid #000;
+	background-color: #EAF4EC;
+	border-radius: 5px;
+	margin-top: 260px;
+	margin-left: 100px;
+	z-index: 2;
+}
+
+
+
+.Sena2 {
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	background-color: #CFE7DD;
+	margin-top: 250px;
+	margin-left: 430px;
+	z-index: 3;
+}
+.Tovar2 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	border: 1px solid #000;
+	background-color: #EAF4EC;
+	border-radius: 5px;
+	margin-top: 260px;
+	margin-left: 450px;
+	z-index: 2;
+}
+
+
+
+.Sena3 {
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	background-color: #CFE7DD;
+	margin-top: 250px;
+	margin-left: 780px;
+	z-index: 3;
+}
+.Tovar3 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	border: 1px solid #000;
+	background-color: #EAF4EC;
+	border-radius: 5px;
+	margin-top: 260px;
+	margin-left: 800px;
+	z-index: 2;
+}
+
+/*-----------------*/
+
+
+.MerchContent {
+	position: absolute;
+	display: inline-block;
+	width: 230px;
+	height: 70px;
+	border: 1px solid #000;
+	border-radius: 10px;
+	background-color: #EAF4EC;
+	margin-top: 650px;
+	margin-left: 70px;
+	padding-left: 65px;
+}
+.TextMerchTovaru {
+	color: #2A4744;
+	font-size: 50px;
+	font-weight: 700;
+	line-height: 70px;
+}
+
+
+
+.SenaMerch1 {
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	background-color: #CFE7DD;
+	margin-top: 750px;
+	margin-left: 80px;
+	z-index: 3;
+}
+.Merch1 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	border: 1px solid #000;
+	background-color: #EAF4EC;
+	border-radius: 5px;
+	margin-top: 760px;
+	margin-left: 100px;
+	z-index: 2;
+}
+
+
+
+.SenaMerch2 {
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	background-color: #CFE7DD;
+	margin-top: 750px;
+	margin-left: 430px;
+	z-index: 3;
+}
+.Merch2 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	border: 1px solid #000;
+	background-color: #EAF4EC;
+	border-radius: 5px;
+	margin-top: 760px;
+	margin-left: 450px;
+	z-index: 2;
+}
+
+
+
+.SenaMerch3 {
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	background-color: #CFE7DD;
+	margin-top: 750px;
+	margin-left: 780px;
+	z-index: 3;
+}
+.Merch3 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	border: 1px solid #000;
+	background-color: #EAF4EC;
+	border-radius: 5px;
+	margin-top: 760px;
+	margin-left: 800px;
+	z-index: 2;
+}
+
+
+
+/*-----------------*/
+
+
+
+.NastolkiContent {
+	position: absolute;
+	display: inline-block;
+	width: 360px;
+	height: 70px;
+	border: 1px solid #000;
+	border-radius: 10px;
+	background-color: #EAF4EC;
+	margin-top: 1150px;
+	margin-left: 70px;
+	padding-left: 10px;
+}
+.TextNastolkTovaru {
+	color: #2A4744;
+	font-size: 50px;
+	font-weight: 700;
+	line-height: 70px;
+}
+
+
+
+.SenaNastolki1 {
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	background-color: #CFE7DD;
+	margin-top: 1250px;
+	margin-left: 80px;
+	z-index: 3;
+}
+.Nastolka1 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	border: 1px solid #000;
+	background-color: #EAF4EC;
+	border-radius: 5px;
+	margin-top: 1260px;
+	margin-left: 100px;
+	z-index: 2;
+}
+
+
+
+.SenaNastolki2 {
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	background-color: #CFE7DD;
+	margin-top: 1250px;
+	margin-left: 430px;
+	z-index: 3;
+}
+.Nastolka2 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	border: 1px solid #000;
+	background-color: #EAF4EC;
+	border-radius: 5px;
+	margin-top: 1260px;
+	margin-left: 450px;
+	z-index: 2;
+}
+
+
+.SenaNastolki3 {
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	background-color: #CFE7DD;
+	margin-top: 1250px;
+	margin-left: 780px;
+	z-index: 3;
+}
+.Nastolka3 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	border: 1px solid #000;
+	background-color: #EAF4EC;
+	border-radius: 5px;
+	margin-top: 1260px;
+	margin-left: 800px;
+	z-index: 2;	
+}
+
+
+
+/*------------------------------------------------------*/
+
+
+
+.UslugiContent {
+	position: absolute;
+	display: inline-block;
+	width: 230px;
+	height: 70px;
+	border: 1px solid #000;
+	border-radius: 10px;
+	background-color: #EAF4EC;
+	margin-top: 1650px;
+	margin-left: 70px;
+	padding-left: 50px;
+}
+.TextUslugiTovaru {
+	position: relative;
+	color: #2A4744;
+	font-size: 50px;
+	font-weight: 700;
+	line-height: 70px;
+}
+
+
+.TextUslugi_VidRabotu {
+	position: absolute;
+	color: #2A4744;
+	font-size: 50px;
+	font-weight: 700;
+	margin-left: 90px;
+	margin-top: 1750px;
+}
+.SelectVudRabotu {
+	position: absolute;
+	display: inline-block;
+	background-color: #EAF4EC;
+	width: 300px;
+	height: 50px;
+	margin-left: 350px;
+	margin-top: 1765px;
+	border: 2px solid #84938E;
+	border-radius: 5px;
+	font-size: 25px;
+	font-weight: 700;
+}
+
+
+.TextUslugi_Ima {
+	position: absolute;
+	color: #2A4744;
+	font-size: 50px;
+	font-weight: 700;
+	margin-left: 90px;
+	margin-top: 1850px;
+}
+.DivUslugi_Ima {
+	position: absolute;
+	display: inline-block;
+	background-color: #EAF4EC;
+	width: 400px;
+	height: 50px;
+	margin-left: 250px;
+	margin-top: 1865px;
+	border: 2px solid #84938E;
+	border-radius: 5px;
+	font-size: 25px;
+	font-weight: 700;
+}
+
+
+.TextUslugi_Familia {
+	position: absolute;
+	color: #2A4744;
+	font-size: 50px;
+	font-weight: 700;
+	margin-left: 90px;
+	margin-top: 1950px;
+}
+.DivUslugi_Familia {
+	position: absolute;
+	display: inline-block;
+	background-color: #EAF4EC;
+	width: 300px;
+	height: 50px;
+	margin-left: 350px;
+	margin-top: 1965px;
+	border: 2px solid #84938E;
+	border-radius: 5px;
+	font-size: 25px;
+	font-weight: 700;
+}
+
+
+.TextUslugi_Pochta {
+	position: absolute;
+	color: #2A4744;
+	font-size: 50px;
+	font-weight: 700;
+	margin-left: 90px;
+	margin-top: 2050px;
+}
+.DivUslugi_Pochta {
+	position: absolute;
+	display: inline-block;
+	background-color: #EAF4EC;
+	width: 350px;
+	height: 50px;
+	margin-left: 300px;
+	margin-top: 2065px;
+	border: 2px solid #84938E;
+	border-radius: 5px;
+	font-size: 25px;
+	font-weight: 700;
+}
+
+
+.UslugiLichnoe{
+	position: absolute;
+	width: 500px;
+	height: 400px;
+	margin-left: 700px;
+	margin-top: 1730px;
+}
+.DopolnitelText{
+	position: absolute;
+	font-size: 40px;
+	border: 5px solid #294744;
+	background-color: #E8F3EA;
+    margin-top: 2150px;
+    margin-left: 100px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    outline-color: #FFF;
+}
+
+
+
+
+
+
+
+
+/*
+.FORM::after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(51, 51, 51, 0.9) url("images/Загрузка.jpg") center / 50px no-repeat;
+	opacity: 0;
+	visibility: hidden;
+	transform: all 0.5s ease 0s;
+}
+.FORM._sending::after{
+	opacity: 1;
+	visibility: visible;
+}
+*/
+/*------------------------------------------------------*/
+
+
+.GlobalPreimushestvo{
+	position: absolute;
+	display: inline-block;
+	position: absolute;
+	width: 100%;
+	height: 850px;
+	margin-top: 2960px;
+	background-color: #6CC1B9;
+	overflow: hidden;
+}
+.Preimushestvo {
+	position: absolute;
+	display: inline-block;
+	background-color: #6CC1B9;
+	border: 1px solid #000;
+	border-radius: 10px;
+	width: 230px;
+	height: 70px;
+	padding-left: 3px;
+	font-size: 40px;
+	font-weight: 700;
+	margin-left: 70px;
+	margin-top: 50px;
+}
+.SpanPreimushestvo11 {
+	position: absolute;
+	font-size: 70px;
+	color: #E9F4EB;
+	text-shadow: -10px 2px 5px rgba(81, 145, 137, 0.5);
+	margin-left: 80px;
+	margin-top: 150px;
+	font-weight: 700;
+}
+.SpanPreimushestvo12 {
+	position: absolute;
+	font-size: 70px;
+	color: #2B4846;
+	text-shadow: -10px 2px 5px rgba(81, 145, 137, 0.5);
+	margin-left: 80px;
+	margin-top: 220px;
+	font-weight: 700;
+}
+.SpanPreimushestvo21 {
+	position: absolute;
+	font-size: 70px;
+	color: #E9F4EB;
+	text-shadow: -10px 2px 5px rgba(81, 145, 137, 0.5);
+	margin-left: 700px;
+	margin-top: 410px;
+	font-weight: 700;
+}
+.SpanPreimushestvo22 {
+	position: absolute;
+	font-size: 70px;
+	color: #2B4846;
+	text-shadow: -10px 2px 5px rgba(81, 145, 137, 0.5);
+	margin-left: 700px;
+	margin-top: 495px;
+	font-weight: 700;
+}
+.PeregorodkaPreimushestvo1 {
+	display: inline-block;
+	position: absolute;
+	width: 2px;
+	height: 220px;
+	background-color: #2B4846;
+	margin-top: 150px;
+	margin-left: 650px;
+}
+.PeregorodkaPreimushestvo2 {
+	display: inline-block;
+	position: absolute;
+	width: 2px;
+	height: 220px;
+	background-color: #2B4846;
+	margin-top: 415px;
+	margin-left: 650px;
+}
+.BolshoyKvadrat5 {
+	position: absolute;
+	display: inline-block;
+	background-color: rgba(0, 0, 0, 0);
+	border: 10px solid #C9DFD1;
+	width: 700px;
+	height: 700px;
+	transform: rotate(15deg);
+	margin-top: 600px;
+	margin-left: -120px;
+	float: right;
+	z-index: 1;
+}
+.BolshoyKvadrat6 {
+	position: absolute;
+	display: inline-block;
+	background-color: rgba(0, 0, 0, 0);
+	border: 10px solid #C9DFD1;
+	width: 700px;
+	height: 700px;
+	transform: rotate(15deg);
+	margin-top: 680px;
+	margin-left: -80px;
+	float: right;
+	z-index: 1;
+}
+
+
+
+
+/*------------------------------------------------------*/
+
+
+
+.GLOBALL_5tochka {
+	position: absolute;
+	display: inline-block;
+	background-color: #000;
+	width: 100%;
+	height: 250px;
+	margin-top: 3810px;
+	overflow: hidden;
+}
+.IMG_5tochka {
+	position: absolute;
+	width: auto;
+	height: 50px;
+	margin-top: 70px;
+	margin-left: 80px;
+}
+.Meaning_IT_5tochka {
+	position: absolute;
+	color: #FFF;
+	font-size: 40px;
+	margin-top: 130px;
+	margin-left: 55px;
+}
+.DIV_Info_5tochka {
+	position: relative;
+	display: inline-block;
+	height: 100%;
+	width: 200px;
+	margin-left: 300px;
+	margin-top: 10px;
+}
+.Info_5tochka {
+	position: absolute;
+	color: #FFF;
+	font-size: 40px;
+	margin-top: 15px;
+	margin-left: 300px;
+}
+.Info_5tochka_Dostanka {
+	position: absolute;
+	color: #FFF;
+	font-size: 30px;
+	margin-top: 80px;
+	margin-left: 310px;
+}
+.Info_5tochka_Kontact{
+	position: absolute;
+	color: #FFF;
+	font-size: 30px;
+	margin-top: 120px;
+	margin-left: 310px;	
+}
+.Info_5tochka_ONas1{
+	position: absolute;
+	color: #FFF;
+	font-size: 30px;
+	margin-top: 160px;
+	margin-left: 310px;
+}
+.Info_5tochka_ONas2{
+	position: absolute;
+	color: #FFF;
+	font-size: 30px;
+	margin-top: 160px;
+	margin-left: 330px; 
+}
+.DIV_SOC_SETI_5tochka {
+	display: inline-block;
+	position: relative;
+	float: right;
+	width: 450px;
+	height: 100%;
+	padding-top: 15px;
+}
+.SOC_SETI_5tochka {
+	position: absolute;
+	color: #FFF;
+	font-size: 40px;
+	margin-top: 5px;
+	margin-left: 60px;
+}
+.Insta_5tochka {
+	position: absolute;
+	height: 40px;
+	margin-top: 80px;
+	margin-left: 90px;
+}
+.Telega_5tochka {
+	position: absolute;
+	height: 40px;
+	margin-top: 130px;
+	margin-left: 90px;
+}
+.Facebock_5tochka {
+	position: absolute;
+	height: 40px;
+	margin-top: 180px;
+	margin-left: 90px;
+}
+
+
+
+/*------------------------------------------------------*/
+/*------------------------------------------------------*/
+
+
+
+.ObcaaZamazkaTovar {
+	position: absolute;
+	margin: 0px;
+	width: 100%;
+	height: 1710px;
+	background-color: #000;
+	opacity: 0.5;
+	z-index: 5;
+}
+.ZakazatTovar1 {
+	display: inline-block;
+	position: absolute;
+	background-color: #E9F4EB;
+	height: 1000px;
+	width: 900px;
+	border-radius: 25px;
+	margin-left: 175px;
+	margin-top: 700px;
+	z-index: 6;
+}
+.GLOBAL_dopomogZakladka{
+	display: inline-block;
+	position: absolute;
+	background-color: #E9F4EB;
+	height: 1000px;
+	width: 900px;
+	border-radius: 25px;
+	margin-left: 0px;
+	margin-top: 0px;
+	z-index: 7;	
+}
+.VuhodSZakazatTovar1 {
+	display: inline-block;
+	position: relative;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	border: 2px solid #0A0B0B;
+	float: right;
+	margin-top: 15px;
+	margin-right: 20px;
+	z-index: 10;
+}
+.VuhodCherta1 {
+	position: absolute;
+	display: inline-block;
+	margin-top: 22px;
+	margin-left: 8px;
+	height: 2px;
+	width: 30px;
+	transform: rotate(45deg);
+	background-color: #0A0B0B; 
+	z-index: 10;
+}
+.VuhodCherta2 {
+	position: absolute;
+	margin-top: 22px;
+	margin-left: 8px;
+	display: inline-block;
+	height: 2px;
+	width: 30px;
+	transform: rotate(135deg);
+	background-color: #0A0B0B;
+}
+.DemonstrachiaTovar1 {
+	position: absolute;
+	width: 300px;
+	height: 400px;
+	border: 1px solid #000;
+	background-color: #000;
+	border-radius: 10px;
+	margin-top: 100px;
+	margin-left: 110px;
+	z-index: 10;
+}
+.ZaglavieTovar1 {
+	font-size: 50px;
+	color: #6CC1B9;
+	position: absolute;
+	margin-top: 15px;
+	margin-left: 30px;
+	font-weight: 700;
+	z-index: 8;
+}
+.OpisaniaTovar1 {
+	position: absolute;
+	color: #2B4846;
+	font-size: 40px;
+	font-weight: 700;
+	margin-left: 40px;
+	margin-top: 550px;
+	z-index: 8;
+}
+.RaznueFotoPocazTovar1 {
+	width: 100px;
+	padding: 0px;
+	height: 400px;
+	position: absolute;
+	margin-left: 10px;
+	margin-top: 100px;
+	z-index: 8;
+}
+.Foto1Tovar1 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	border-radius: 10px;
+	margin-left: 15px;
+	margin-top: 10px;
+	border: 2px solid #000;
+	z-index: 8;
+	box-sizing: border-box;
+}
+.Foto2Tovar2 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	border-radius: 10px;
+	margin-left: 15px;
+	margin-top: 90px;
+	z-index: 8;
+	box-sizing: border-box;
+}
+.Foto3Tovar3 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	border-radius: 10px;
+	margin-left: 15px;
+	margin-top: 170px;
+	z-index: 8;
+}
+.Foto4Tovar4 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	border-radius: 10px;
+	margin-left: 15px;
+	margin-top: 250px;
+	z-index: 8;
+}
+.Foto1Tovar1.pogano {
+	border: none;
+	box-sizing: border-box;
+}
+.Foto2Tovar2.active {
+	border: 2px solid #000;
+	box-sizing: border-box;
+}
+.Foto3Tovar3.active {
+	border: 2px solid #000;
+	box-sizing: border-box;
+}
+.Foto4Tovar4.active {
+	border: 2px solid #000;
+	box-sizing: border-box;
+}
+
+.Foto1Tovar1Vidno {
+	position: absolute;
+	width: 100%;
+	height: 80%;
+	border-radius: 0px;
+	margin-left: 0px;
+	margin-top: 40px;
+	z-index: 2;
+}
+.Foto2Tovar2Vidno {
+	position: absolute;
+	width: 100%;
+	height: 80%;
+	border-radius: 0px;
+	margin-left: 0px;
+	margin-top: 40px;
+	z-index: 1;
+}
+.Foto3Tovar3Vidno {
+	position: absolute;
+	width: 100%;
+	height: 80%;
+	border-radius: 0px;
+	margin-left: 0px;
+	margin-top: 40px;
+	z-index: 1;
+}
+.Foto4Tovar4Vidno {
+	position: absolute;
+	width: 100%;
+	height: 80%;
+	border-radius: 0px;
+	margin-left: 0px;
+	margin-top: 40px;
+	z-index: 1;
+}
+
+.Foto1Tovar1Vidno.active {
+	z-index: 1;
+}
+.Foto2Tovar2Vidno.active {
+	z-index: 2;
+}
+.Foto3Tovar3Vidno.active {
+	z-index: 2;
+}
+.Foto4Tovar4Vidno.active {
+	z-index: 2;
+}
+
+
+.FixNavodFoto1Tovar1 {
+	display: inline-block;
+	position: absolute;
+	width: 100px;
+	height: 80px;
+	margin-top: 0px;
+	margin-left: 0px;
+	z-index: 1;
+}
+.FixNavodFoto2Tovar2 {
+	display: inline-block;
+	position: absolute;
+	width: 100px;
+	height: 80px;
+	margin-top: 80px;
+	margin-left: 0px;
+	z-index: 1;
+}
+.FixNavodFoto3Tovar3 {
+	display: inline-block;
+	position: absolute;
+	width: 100px;
+	height: 80px;
+	margin-top: 160px;
+	margin-left: 0px;
+	z-index: 1;
+}
+.FixNavodFoto4Tovar4 {
+	display: inline-block;
+	position: absolute;
+	width: 100px;
+	height: 80px;
+	margin-top: 240px;
+	margin-left: 0px;
+	z-index: 1;
+}
